@@ -13,7 +13,7 @@
     }
   ],
   "dependencies": {
-    "grpc": "^0.15.0",
+    "grpc": "^1.4.1",
     "underscore": "^1.8.0"
   },
   "devDependencies": {},
